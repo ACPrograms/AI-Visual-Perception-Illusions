@@ -5,7 +5,7 @@ import csv
 from PIL import Image
 
 # Insert your Gemini API key securely
-genai.configure(api_key="AIzaSyCHJexxsGGJo6ZZyDEqeaGRk859ilJZ-ig")
+genai.configure(api_key="apikey")
 
 # The list of models you want to test
 models_to_test = [

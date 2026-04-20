@@ -71,6 +71,13 @@ Multimodal LLMs do not "see" the world in a way that is analogous to human perce
 ***
 
 ### References
-1.  Müller-Lyer, F. C. (1889). *Optische Urteilstäuschungen*. Archiv für Anatomie und Physiologie, Physiologische Abteilung, 2, 263–270.
-2.  Ponzo, M. (1911). *Intorno ad alcune illusioni nel campo delle sensazioni tattili sull'illusione di Aristotele e fenomeni analoghi*. Archives Italiennes de Biologie.
-3.  Ebbinghaus, H. (1902). *Grundzüge der Psychologie*. Leipzig: Veit & Co.
+
+1. Müller-Lyer, F. C. (1889). *Optische Urteilstäuschungen*. *Archiv für Anatomie und Physiologie, Physiologische Abteilung*, 2, 263–270.
+
+2. Ponzo, M. (1911). *Intorno ad alcune illusioni nel campo delle sensazioni tattili sull'illusione di Aristotele e fenomeni analoghi*. *Archives Italiennes de Biologie*.
+
+3. Ebbinghaus, H. (1902). *Grundzüge der Psychologie*. Leipzig: Veit & Co.
+
+4. Yue, X., et al. (2026). "Seeing Is Believing? A Benchmark for Multimodal Large Language Models on Visual Illusions and Anomalies." *arXiv:2602.01816*. [https://arxiv.org/abs/2602.01816](https://arxiv.org/abs/2602.01816)
+
+5. Chen, L., et al. (2025). "Illusions in Humans and AI: How Visual Perception Aligns Across Biological and Artificial Systems." *arXiv:2508.12422*. [https://arxiv.org/abs/2508.12422](https://arxiv.org/abs/2508.12422)
